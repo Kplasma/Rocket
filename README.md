@@ -1,2 +1,3 @@
 # Rocket
-Programs regarding physics of rockets  in c++ and some in python 
+Programs regarding physics of rockets.
+Some projects are in c++ and some in python 
